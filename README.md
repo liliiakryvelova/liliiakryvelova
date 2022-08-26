@@ -1,4 +1,4 @@
-![Header](./your-header-image-name (1).png)
+![Header](./your-header-image-name(1).png)
 
 My name is Liliia, I am a Junior Full-stack developer with a passion for learning. I have a classic technical education from National Technical University and finished school with deep mathematics learning.
 
