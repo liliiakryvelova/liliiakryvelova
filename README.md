@@ -1,8 +1,7 @@
-####Hi there 👋
+![Header](./your-header-image-name (1).png)
 
-<p>
 My name is Liliia, I am a Junior Full-stack developer with a passion for learning. I have a classic technical education from National Technical University and finished school with deep mathematics learning.
-</p>
+
 
 
 - 🌱 I’m currently learning Authentication with Identity, Building an API.
