@@ -1,4 +1,4 @@
-<p align="center">### Hi there 👋</p>
+<p align="center"><em>Hi there 👋<em></p>
 My name is Liliia, I am a Junior Full-stack developer with a passion for learning. I have a classic technical education from National Technical University and finished school with deep mathematics learning.
 Currently, I am studying at the Epicodus coding school. As a student, I work on upgrading and developing skills working with Javascript, C#, CSS and Bootstrap. I enjoy creating applications and spending time learning new information. I have good experience in testing both SOAP and REST services using SOAP UI, Postman, RestSharp, and Tested JSON formats.
 
