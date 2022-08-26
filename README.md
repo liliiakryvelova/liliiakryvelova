@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height:50px" />
-</div>  
-  
 
 ### <div align="center">Hi there! My name is Liliia, I am a full-stack junior developer and currently I am studying in coding school Epicodus 🚀</div>  
   
