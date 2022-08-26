@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning   Authentication with Identity
   
 
-- ❓ Ask me about anything related to Javascript, Data structures, and Algorithm  
+- ❓ Ask me about anything related to Javascript, Data structures, and Algorithms 
   
 
 <br/>  
