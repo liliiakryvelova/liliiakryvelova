@@ -1,9 +1,6 @@
 
 ### <div align="center">Hi there! My name is Liliia, I am a full-stack junior developer and currently I am studying in coding school Epicodus 🚀</div>  
-  
-
-![Liliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliiakryvelova&show_icons=true&theme=radical)  
-  
+ 
 
 - 🌱 I’m currently learning   Authentication with Identity
   
