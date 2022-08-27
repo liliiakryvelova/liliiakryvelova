@@ -3,8 +3,9 @@
  
 
 - 🌱 I’m currently learning   Authentication with Identity
-  
 
+- 🌲 Originally from the Ukraine but now living in Redmond, WA. 
+  
 - ❓ Ask me about anything related to Javascript, Data structures, and Algorithms 
   
 
