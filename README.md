@@ -84,5 +84,5 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent profile views  
 ![Profile views counter](https://komarev.com/ghpvc/?username=liliiakryvelova&&style=flat-square)  
